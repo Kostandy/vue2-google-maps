@@ -600,13 +600,6 @@ in order to use marker clustering.
 ##### `gridSize : number`
 ##### `styles : object[]`
 
-### `Cluster` class (mixes in `MapElementMixin`)
-#### Properties
-##### `maxZoom : number`
-##### `calculator : function`
-##### `gridSize : number`
-##### `styles : object[]`
-
 ### `InfoWindow` class (mixes in `MapElementMixin`)
 Example:
 ```js
